@@ -1,7 +1,5 @@
 package br.com.alura.screenmatch.model;
 
-import com.fasterxml.jackson.annotation.JsonAlias;
-
 import java.time.LocalDate;
 import java.time.format.DateTimeParseException;
 
